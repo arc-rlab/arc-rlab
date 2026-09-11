@@ -1,22 +1,53 @@
-### Hey, I'm Davi Coelho.
+## A.R.C. - Autonomous Reasoning & Computation Laboratory
 
-**`scientist`**
+> INTRODUCTION PROTOCOL
 
-I run experiments here. \
-Some turn into working systems. Some just leave better questions behind.
+Welcome to A.R.C. Labs. \
+In these repositories you'll find a collection of computational experiments.
 
-Welcome to the lab.
+We take questions that sound like science fiction, turn them into computational problems, \
+and then try to build the smallest system capable of investigating them. \
+Sometimes the experiment works. Sometimes it spectacularly doesn't. \
+Both outcomes are useful.
+
 ---
-### Main Tools
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-### Social Media Links
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/coeeIIho)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-coelho-b92350436/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@coelhoodavi)
+> TECHNOLOGY MATRIX
+
+LANGUAGES \
+──────────────────────────────────────── \
+Python &emsp;&nbsp; ████████████████████ \
+SQL &emsp;&emsp;&ensp;&nbsp; ███████████░░░░░░░░░ \
+C/C++ &emsp;&ensp;&nbsp;  ████░░░░░░░░░░░░░░░░
+
+
+COMPUTATION \
+──────────────────────────────────────── \
+NumPy &emsp;&emsp; ████████████████████ \
+SciPy &emsp;&emsp;&emsp; ██████████████████░░ \
+Pandas &emsp;&emsp; █████████████████░░░ \
+Scikit-learn &ensp;████████████████░░░░ \
+PyTorch &emsp;&emsp;██████████████░░░░░░
+
+
+VISUALIZATION \
+──────────────────────────────────────── \
+Matplotlib &ensp; ██████████████████░░ \
+Plotly &emsp;&emsp;&ensp;&nbsp; █████████████████░░░
+
+
+---
+
+### External Dependency Philosophy
+A.R.C. follows a simple rule: \
+"If the experiment can be performed locally it should be."
+
+---
+
+> FINAL MESSAGE
+
+We have arrived with the goal of presenting you a new approach to computers. \
+We will use the power of computation for building systems that look, feel and \
+work better than its minimalistic counterparts. 
+
+A future that doesn't look like the future is a boring present.
