@@ -51,3 +51,6 @@ We will use the power of computation for building systems that look, feel and \
 work better than its minimalistic counterparts. 
 
 A future that doesn't look like the future is a boring present.
+──────────────────────────────────────────────────────────────────────────────── \
+A.R.C. Labs \
+Autonomous Reasoning & Computation Laboratory
