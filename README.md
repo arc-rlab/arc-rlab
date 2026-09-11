@@ -1,13 +1,13 @@
 ### Hey, I'm Davi Coelho.
 
-**`aspiring scientist`**
+**`scientist`**
 
 I run experiments here. \
 Some turn into working systems. Some just leave better questions behind.
 
 Welcome to the lab.
 ---
-### Main Languages and Tools
+### Main Tools
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
